@@ -1,0 +1,19 @@
+# Images
+*.png
+
+# certs, keys etc.
+*.der
+*.pem
+
+# Byte-compiled / optimized / DLL files / OS files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+
+# Text files
+*.txt
+
+# Settings
+settings.json
